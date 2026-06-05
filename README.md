@@ -11,10 +11,6 @@
 
 ---
 
-<h2 align="center">My Tech Stack</h2>
-
----
-
 <h2>My Tech Stack</h2>
 
 ---
