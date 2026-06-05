@@ -1,4 +1,4 @@
-# Michael Olu-Ajayi
+# Hi there, I'm Michael
 
 ### Aspiring Cloud Security Engineer
 ---
