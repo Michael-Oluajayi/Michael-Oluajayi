@@ -23,7 +23,7 @@
 
 ---
 
-☁️ Cloud & Infrastructure
+                    ☁️ Cloud & Infrastructure
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux" />
