@@ -1,13 +1,15 @@
 # Michael Olu-Ajayi
 
 ### Aspiring Cloud Security Engineer
+---
 
 
+I'm breaking into cloud security by actually building things, I'm passionate about building and maintaining secure cloud environments. Currently pursing AWS Cloud Practitioner, Azure-900, & CompTia Security+ Certifications
 
-🔐 Building secure cloud infrastructure on AWS  
-📚 Currently pursuing AWS Cloud Practitioner → AWS Security Specialty  
-🎯 Targeting Cloud Security Engineer roles  
-🇺🇸 US Citizen | Clearance Eligible  
+Secure Infrastructure: I built locked down AWS environments from the ground up. VPC, KMS encryption, zero inbound traffic, all written as code so it's repeatable and version controlled.
+Security Monitoring: Set up a full SOC monitoring environment where CloudTrail logs every action in my account and I get an email the second something suspicious is detected.
+Zero Trust: Built out a Zero Trust architecture on AWS where nobody gets access by default. Every role has the minimum permissions it needs and nothing more.
+Compliance Automation: Deployed automated compliance checks that run 24/7 and flag anything that violates security standards used by government contractors like Booz Allen and Leidos.
 
 ---
 
