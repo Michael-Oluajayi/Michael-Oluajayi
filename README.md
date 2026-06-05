@@ -17,24 +17,40 @@
 
 💻 Languages & Scripting
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
 </p>
 
 ---
 
-                    ☁️ Cloud & Infrastructure
+☁️ Cloud & Infrastructure
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
+</p>
+
+---
+
+🔐 Security & Monitoring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" />
 </p>
 
 ---
 
 🛠️ Developer Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes" />
+</p>
+
+---
+
+🗄️ Databases & Logging
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ---
