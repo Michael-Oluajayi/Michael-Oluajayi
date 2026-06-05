@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Michael Olu-Ajayi
 
-<!--
-**Michael-Oluajayi/Michael-Oluajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Cloud Security Engineer | AWS | Terraform | Zero Trust | IaC
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Building secure cloud infrastructure on AWS  
+📚 Currently pursuing AWS Cloud Practitioner → AWS Security Specialty  
+🎯 Targeting Cloud Security Engineer roles  
+🇺🇸 US Citizen | Clearance Eligible  
+
+---
+
+### 🛠️ Projects
+- [AWS Secure Infrastructure](https://github.com/Michael-Oluajayi/aws-secure-infra)
+- [SOC Monitoring Dashboard](https://github.com/Michael-Oluajayi/aws-soc-dashboard)
+- [Zero Trust Network](https://github.com/Michael-Oluajayi/aws-zero-trust)
+- [Incident Response Runbook](https://github.com/Michael-Oluajayi/aws-ir-runbook)
+- [IAM Access Analyzer](https://github.com/Michael-Oluajayi/aws-iam-analyzer)
+- [AWS Config Compliance](https://github.com/Michael-Oluajayi/aws-config-compliance)
+
+---
+
+![snake](https://raw.githubusercontent.com/Michael-Oluajayi/Michael-Oluajayi/output/github-snake-dark.svg)
