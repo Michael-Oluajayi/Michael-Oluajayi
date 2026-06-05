@@ -21,28 +21,28 @@
 </div>
 
 
-<h5 align="center">☁️ Cloud & Infrastructure</h5>
+<h4 align="center">☁️ Cloud & Infrastructure</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
 </div>
 
 
-<h1 align="center">🔐 Security & Monitoring</h1>
+<h4 align="center">🔐 Security & Monitoring</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" />
 </div>
 
 
-<h1 align="center">🛠️ Developer Tools</h1>
+<h4 align="center">🛠️ Developer Tools</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes" />
 </div>
 
 
-<h1 align="center">🗄️ Databases & Logging</h1>
+<h4 align="center">🗄️ Databases & Logging</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
