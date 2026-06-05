@@ -14,14 +14,14 @@
 <h2>My Tech Stack</h2>
 
 
-<h5 align="center">💻 Languages & Scripting</h5>
+<h4 align="center">💻 Languages & Scripting</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
 </div>
 
 
-<h1 align="center">☁️ Cloud & Infrastructure</h1>
+<h5 align="center">☁️ Cloud & Infrastructure</h5>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
