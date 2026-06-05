@@ -2,7 +2,7 @@
 
 ### Aspiring Cloud Security Engineer
 
----
+
 
 🔐 Building secure cloud infrastructure on AWS  
 📚 Currently pursuing AWS Cloud Practitioner → AWS Security Specialty  
