@@ -1,4 +1,4 @@
-# Hi, I'm Michael Olu-Ajayi
+# Hi there, I'm Michael 👋🏾
 
 ### Aspiring Cloud Security Engineer | AWS | Terraform | Zero Trust | IaC
 
