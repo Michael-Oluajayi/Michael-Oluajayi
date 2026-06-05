@@ -31,7 +31,7 @@ Here's what I've been working on:
 </div>
 
 
-<h4 align="center">🛠️ Developer Tools</h4>
+<h4 align="center">⚙️ Developer Tools</h4>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@ Here's what I've been working on:
 </div>
 
 
-<h4 align="center">📚 Libraries & Frameworks</h4>
+<h4 align="center">☁️ Libraries & Frameworks</h4>
 
 <div align="center">
   <a href="https://skillicons.dev">
