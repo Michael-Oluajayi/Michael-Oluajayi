@@ -5,11 +5,10 @@
 
 OVERVIEW
 ---
-
 I'm breaking into cloud security by actually building things, I'm passionate about building and maintaining secure cloud environments. Currently pursing AWS Cloud Practitioner, Azure-900, & CompTia Security+ Certifications
 
-Secure Infrastructure: I built locked down AWS environments from the ground up. VPC, KMS encryption, zero inbound traffic, all written as code so it's repeatable and version controlled.
-
+Here's what I've been working on:
+* _**Secure Infrastructure**_: I built locked down AWS environments from the ground up. VPC, KMS encryption, zero inbound traffic, all written as code so it's repeatable and version controlled.
 Security Monitoring: Set up a full SOC monitoring environment where CloudTrail logs every action in my account and I get an email the second something suspicious is detected.
 
 Zero Trust: Built out a Zero Trust architecture on AWS where nobody gets access by default. Every role has the minimum permissions it needs and nothing more.
