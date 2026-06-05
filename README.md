@@ -9,43 +9,27 @@
 🎯 Targeting Cloud Security Engineer roles  
 🇺🇸 US Citizen | Clearance Eligible  
 
----
 
 <h2>My Tech Stack</h2>
 
+---
 
-<h4 align="center">💻 Languages & Scripting</h4>
+<h4 align="center">💻 Languages</h4>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
 </div>
 
-
-<h4 align="center">☁️ Cloud & Infrastructure</h4>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
-</div>
-
-
-<h4 align="center">🔐 Security & Monitoring</h4>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" />
-</div>
-
-
 <h4 align="center">🛠️ Developer Tools</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,git,github,vscode,linux,docker" />
 </div>
 
-
-<h4 align="center">🗄️ Databases & Logging</h4>
+<h4 align="center">📚 Libraries & Frameworks</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,ansible,ubuntu,debian" />
 </div>
 
 ---
