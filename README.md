@@ -1,8 +1,6 @@
-# Hi, I'm Michael Olu-Ajayi
+# Hi there, I'm Michael Olu-Ajayi
 
 ### Aspiring Cloud Security Engineer | AWS | Terraform | Zero Trust | IaC
-
-![Profile Views](https://komarev.com/ghpvc/?username=Michael-Oluajayi&color=blue&style=flat)
 
 ---
 
@@ -13,7 +11,24 @@
 
 ---
 
-### 🛠️ Projects
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projects
 - [AWS Secure Infrastructure](https://github.com/Michael-Oluajayi/aws-secure-infra)
 - [SOC Monitoring Dashboard](https://github.com/Michael-Oluajayi/aws-soc-dashboard)
 - [Zero Trust Network](https://github.com/Michael-Oluajayi/aws-zero-trust)
@@ -30,11 +45,4 @@
 
 ---
 
-### ⚡ Click Speed Challenge
-Can you click the button 10 times in under 3 seconds?
-
-[![Click Challenge](https://img.shields.io/badge/🎮_Click_Speed_Challenge-Play_on_my_portfolio-blue?style=for-the-badge)](https://michael-oluajayi.github.io)
-
----
-
-![snake](https://raw.githubusercontent.com/Michael-Oluajayi/Michael-Oluajayi/output/github-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/Michael-Oluajayi/Michael-Oluajayi/output/github-snake-dark.svg)content.com/Michael-Oluajayi/Michael-Oluajayi/output/github-snake-dark.svg)
