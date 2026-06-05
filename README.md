@@ -1,4 +1,4 @@
-<h2 align="center">My Tech Stack</h2>
+<h2>My Tech Stack</h2>
 
 ---
 
@@ -10,7 +10,6 @@
   </a>
 </div>
 
----
 
 <h4 align="center">🛠️ Developer Tools</h4>
 
@@ -20,7 +19,6 @@
   </a>
 </div>
 
----
 
 <h4 align="center">📚 Libraries & Frameworks</h4>
 
