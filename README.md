@@ -15,7 +15,7 @@
 
 
 
-<h4 align="center">💻 Languages & Scripting</h4>
+<h4 align="center">💻  Languages & Scripting</h4>
 
 <div align="center">
   <a href="https://skillicons.dev">
