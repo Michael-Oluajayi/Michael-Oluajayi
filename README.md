@@ -14,7 +14,7 @@
 <h2>My Tech Stack</h2>
 
 
-<h4 align="center">💻 Languages & Scripting</h4>
+<h5 align="center">💻 Languages & Scripting</h5>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
