@@ -13,7 +13,6 @@
 
 <h2 align="center">My Tech Stack</h2>
 
----
 
 <h3 align="center">💻 Languages & Scripting</h3>
 
@@ -21,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
 </div>
 
----
 
 <h3 align="center">☁️ Cloud & Infrastructure</h3>
 
@@ -29,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
 </div>
 
----
 
 <h3 align="center">🔐 Security & Monitoring</h3>
 
@@ -37,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" />
 </div>
 
----
 
 <h3 align="center">🛠️ Developer Tools</h3>
 
@@ -45,7 +41,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes" />
 </div>
 
----
 
 <h3 align="center">🗄️ Databases & Logging</h3>
 
