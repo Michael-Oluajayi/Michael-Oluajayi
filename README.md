@@ -11,47 +11,47 @@
 
 ---
 
-## My Tech Stack
+<h2 align="center">My Tech Stack</h2>
 
 ---
 
-💻 Languages & Scripting
+<h3 align="center">💻 Languages & Scripting</h3>
 
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
-</p>
+</div>
 
 ---
 
-☁️ Cloud & Infrastructure
+<h3 align="center">☁️ Cloud & Infrastructure</h3>
 
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
-</p>
+</div>
 
 ---
 
-🔐 Security & Monitoring
+<h3 align="center">🔐 Security & Monitoring</h3>
 
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" />
-</p>
+</div>
 
 ---
 
-🛠️ Developer Tools
+<h3 align="center">🛠️ Developer Tools</h3>
 
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes" />
-</p>
+</div>
 
 ---
 
-🗄️ Databases & Logging
+<h3 align="center">🗄️ Databases & Logging</h3>
 
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+</div>
 
 ---
 
