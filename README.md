@@ -59,9 +59,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael-Oluajayi&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael-Oluajayi&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=94a3b8&icon_color=378add&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Oluajayi&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Oluajayi&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=94a3b8&cache_seconds=1800)
 
 ---
 
