@@ -3,6 +3,8 @@
 ### Aspiring Cloud Security Engineer
 ---
 
+OVERVIEW
+---
 
 I'm breaking into cloud security by actually building things, I'm passionate about building and maintaining secure cloud environments. Currently pursing AWS Cloud Practitioner, Azure-900, & CompTia Security+ Certifications
 
